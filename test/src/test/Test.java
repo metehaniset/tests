@@ -6,6 +6,8 @@ public class Test {
 		System.out.println("Hello World");
 		
 		System.out.println("Pull Request Test");
+		
+		System.out.println("ilk hatam var");
 	}
 	
 	
