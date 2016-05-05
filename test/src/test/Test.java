@@ -7,7 +7,7 @@ public class Test {
 		
 		System.out.println("Pull Request Test");
 		
-		System.out.println("ilk hatam var");
+		System.out.println("İkinci hata");
 	}
 	
 	
